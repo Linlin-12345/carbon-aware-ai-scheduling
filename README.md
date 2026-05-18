@@ -226,8 +226,8 @@ Three practical takeaways for data centre operators and AI cloud providers:
 MSc Business Analytics — Trinity College Dublin  
 *Responsible for: descriptive analysis, statistical testing, workload scheduling simulation, persistence baseline & day-ahead forecast evaluation*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/lin-htet-aung-884025200)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)](https://github.com/Linlin-12345)
 
 ---
 
